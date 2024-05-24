@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Test sfs
+          Learn React Testing Super
         </a>
       </header>
     </div>
